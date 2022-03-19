@@ -1,0 +1,39 @@
+full path: /
+file: lib64
+size: 4096
+full path: /media/sf_ubuntu
+file: ubuntu-1.16-windows.vbox
+size: 3248
+full path: /media/sf_ubuntu
+file: ubuntu.vbox
+size: 5634
+full path: /media/sf_ubuntu
+file: ubuntu.vbox-prev
+size: 5634
+full path: /media/danila/VBox_GAs_6.1.301
+file: AUTORUN.INF
+size: 763
+full path: /media/danila/VBox_GAs_6.1.301
+file: autorun.sh
+size: 6384
+full path: /media/danila/VBox_GAs_6.1.301
+file: cert
+size: 792
+full path: /media/danila/VBox_GAs_6.1.301
+file: NT3x
+size: 1824
+full path: /media/danila/VBox_GAs_6.1.301
+file: OS2
+size: 2652
+full path: /media/danila/VBox_GAs_6.1.301
+file: runasroot.sh
+size: 4821
+full path: /media/danila/VBox_GAs_6.1.301
+file: TRANS.TBL
+size: 592
+full path: /media/danila/VBox_GAs_6.1.301
+file: VBoxDarwinAdditionsUninstall.tool
+size: 3949
+full path: /media/danila/VBox_GAs_6.1.301
+file: windows11-bypass.reg
+size: 259
